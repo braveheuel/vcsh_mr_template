@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/janus.git]
+checkout = vcsh clone git@github.com:braveheuel/janus.git janus
