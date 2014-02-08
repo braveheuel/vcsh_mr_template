@@ -1,2 +1,0 @@
-[$HOME/.vim]
-checkout = git clone git@github.com:carlhuda/janus.git .vim
