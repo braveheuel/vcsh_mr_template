@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/configs.git]
+checkout = vcsh clone git@github.com:braveheuel/configs.git configs
