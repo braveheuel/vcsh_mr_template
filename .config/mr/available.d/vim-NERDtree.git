@@ -1,2 +1,2 @@
 [$HOME/.vim/bundle/nerdtree]
-checkoud = git clone https://github.com/scrooloose/nerdtree.git
+checkout = git clone https://github.com/scrooloose/nerdtree.git
