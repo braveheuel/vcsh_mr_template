@@ -1,0 +1,2 @@
+[$HOME/.vim/bundle/syntastic]
+checkout = git clone https://github.com/scrooloose/syntastic.git syntastic

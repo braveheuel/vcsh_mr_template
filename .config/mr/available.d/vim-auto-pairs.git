@@ -1,0 +1,2 @@
+[$HOME/.vim/bundle/auto-pairs]
+checkout = git clone https://github.com/jiangmiao/auto-pairs.git auto-pairs
