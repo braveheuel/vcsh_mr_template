@@ -1,0 +1,2 @@
+[$HOME/.vim/bundle/vim-template]
+checkout = git clone git@github.com:aperezdc/vim-template.git
