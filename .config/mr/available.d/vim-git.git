@@ -1,0 +1,2 @@
+[$HOME/.vim/bundle/vim-git]
+checkout = git clone git@github.com:tpope/vim-git.git

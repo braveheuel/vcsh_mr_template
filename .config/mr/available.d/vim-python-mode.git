@@ -1,0 +1,2 @@
+[$HOME/.vim/bundle/python-mode]
+checkout = git clone https://github.com/klen/python-mode.git python-mode
