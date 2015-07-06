@@ -1,0 +1,2 @@
+[$HOME/.vim/bundle/nerdtree-tabs]
+checkout = git clone git@github.com:jistr/vim-nerdtree-tabs.git
