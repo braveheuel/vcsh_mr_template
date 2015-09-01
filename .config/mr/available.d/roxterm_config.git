@@ -1,0 +1,2 @@
+[$HOME/.config/roxterm.sourceforge.net]
+checkout = git clone 'git@github.com:braveheuel/roxterm_config.git' 'roxterm.sourceforge.net'
