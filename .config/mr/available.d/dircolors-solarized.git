@@ -1,0 +1,2 @@
+[$HOME/.config/solarized/dircolors]
+checkout = git clone https://github.com/seebi/dircolors-solarized.git dircolors
