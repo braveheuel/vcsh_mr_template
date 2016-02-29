@@ -1,0 +1,2 @@
+[$HOME/bin/]
+checkout = git clone git@github.com:braveheuel/scripts bin

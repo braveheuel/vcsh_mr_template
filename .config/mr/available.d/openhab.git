@@ -1,0 +1,2 @@
+[$HOME/.vim/bundle/openhab-vim]
+checkout = git clone git@github.com:cyberkov/openhab-vim.git
