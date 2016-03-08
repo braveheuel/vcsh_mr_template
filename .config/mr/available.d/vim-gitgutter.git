@@ -1,0 +1,2 @@
+[$HOME/.vim/bundle/vim-gitgutter]
+checkout = git clone git://github.com/airblade/vim-gitgutter.git
