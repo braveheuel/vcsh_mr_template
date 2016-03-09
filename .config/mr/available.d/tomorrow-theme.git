@@ -1,0 +1,2 @@
+[$HOME/.config/tomorrow-theme]
+checkout = git clone https://github.com/chriskempson/tomorrow-theme.git tomorrow-theme
