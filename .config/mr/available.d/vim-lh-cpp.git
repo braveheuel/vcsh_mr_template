@@ -1,0 +1,2 @@
+[$HOME/.vim/bundle/lh-cpp]
+checkout = git clone git@github.com:LucHermitte/lh-cpp.git

@@ -1,0 +1,2 @@
+[$HOME/.vim/bundle/lh-tags]
+checkout = git clone git@github.com:LucHermitte/lh-tags.git

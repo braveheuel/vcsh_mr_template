@@ -1,0 +1,2 @@
+[$HOME/.vim/bundle/stakeholders_vim]
+checkout = git clone git@github.com:tomtom/stakeholders_vim.git

@@ -1,0 +1,2 @@
+[$HOME/.vim/bundle/mu-template]
+checkout = git clone git@github.com:LucHermitte/mu-template.git

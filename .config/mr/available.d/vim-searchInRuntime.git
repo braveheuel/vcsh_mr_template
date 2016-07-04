@@ -1,0 +1,2 @@
+[$HOME/.vim/bundle/searchInRuntime]
+checkout = git clone git@github.com:LucHermitte/searchInRuntime.git
