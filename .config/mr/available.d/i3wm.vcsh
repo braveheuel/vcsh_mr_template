@@ -1,2 +1,0 @@
-[$HOME/.config/vcsh/repo.d/i3wm.git]
-checkout = vcsh clone git@github.com:braveheuel/i3wm.config.git i3wm
