@@ -1,0 +1,2 @@
+[$HOME/.vim/bundle/vim-ctrlp]
+checkout = git clone git@github.com:ctrlpvim/ctrlp.vim.git vim-ctrlp

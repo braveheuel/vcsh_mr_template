@@ -1,0 +1,2 @@
+[$HOME/.vim/bundle/vimux]
+checkout = git clone git@github.com:benmills/vimux.git vimux

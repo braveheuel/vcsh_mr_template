@@ -1,0 +1,2 @@
+[$HOME/.i3/]
+checkout = git clone git@github.com:braveheuel/i3wm.config.git .i3
