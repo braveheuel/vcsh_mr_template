@@ -1,0 +1,2 @@
+[$HOME/.vim/bundle/emmet]
+checkout = git clone git@github.com:mattn/emmet-vim.git emmet
