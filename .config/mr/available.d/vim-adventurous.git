@@ -1,0 +1,2 @@
+[$HOME/.vim/bundle/vim-adventurous]
+checkout = git clone git@github.com:Dru89/vim-adventurous.git
