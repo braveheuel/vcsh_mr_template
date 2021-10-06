@@ -1,0 +1,2 @@
+[$HOME/.vim/bundle/lightline]
+checkout = git clone git@github.com:itchyny/lightline.vim.git lightline
